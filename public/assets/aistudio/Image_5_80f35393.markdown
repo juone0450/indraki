@@ -1,0 +1,225 @@
+---
+name: Technical Blueprint Modernism
+colors:
+  surface: '#fcf9f4'
+  surface-dim: '#dcdad5'
+  surface-bright: '#fcf9f4'
+  surface-container-lowest: '#ffffff'
+  surface-container-low: '#f6f3ee'
+  surface-container: '#f0ede9'
+  surface-container-high: '#ebe8e3'
+  surface-container-highest: '#e5e2dd'
+  on-surface: '#1c1c19'
+  on-surface-variant: '#444748'
+  inverse-surface: '#31302d'
+  inverse-on-surface: '#f3f0eb'
+  outline: '#747878'
+  outline-variant: '#c4c7c7'
+  surface-tint: '#5f5e5e'
+  primary: '#000000'
+  on-primary: '#ffffff'
+  primary-container: '#1c1b1b'
+  on-primary-container: '#858383'
+  inverse-primary: '#c8c6c5'
+  secondary: '#b12500'
+  on-secondary: '#ffffff'
+  secondary-container: '#db3406'
+  on-secondary-container: '#fffbff'
+  tertiary: '#000000'
+  on-tertiary: '#ffffff'
+  tertiary-container: '#281800'
+  on-tertiary-container: '#9b7f57'
+  error: '#ba1a1a'
+  on-error: '#ffffff'
+  error-container: '#ffdad6'
+  on-error-container: '#93000a'
+  primary-fixed: '#e5e2e1'
+  primary-fixed-dim: '#c8c6c5'
+  on-primary-fixed: '#1c1b1b'
+  on-primary-fixed-variant: '#474646'
+  secondary-fixed: '#ffdad2'
+  secondary-fixed-dim: '#ffb4a3'
+  on-secondary-fixed: '#3d0700'
+  on-secondary-fixed-variant: '#8a1b00'
+  tertiary-fixed: '#ffddaf'
+  tertiary-fixed-dim: '#e2c294'
+  on-tertiary-fixed: '#281800'
+  on-tertiary-fixed-variant: '#594320'
+  background: '#fcf9f4'
+  on-background: '#1c1c19'
+  surface-variant: '#e5e2dd'
+  canvas-cream: '#FAF7F2'
+  surface-cream-alt: '#F3EFE6'
+  surface-dark: '#16181D'
+  technical-black: '#111111'
+  signal-orange: '#FF4D22'
+  signal-orange-deep: '#E63B10'
+  blueprint-tan: '#D9B98C'
+  border-subtle: rgba(17, 17, 17, 0.12)
+  border-grid: rgba(217, 185, 140, 0.35)
+  code-gray: '#555555'
+typography:
+  headline-xl:
+    fontFamily: EB Garamond
+    fontSize: 4rem
+    fontWeight: '400'
+    lineHeight: 4.25rem
+    letterSpacing: -0.02em
+  headline-xl-mobile:
+    fontFamily: EB Garamond
+    fontSize: 2.5rem
+    fontWeight: '400'
+    lineHeight: 2.75rem
+    letterSpacing: -0.01em
+  headline-lg:
+    fontFamily: EB Garamond
+    fontSize: 2.75rem
+    fontWeight: '400'
+    lineHeight: 3rem
+    letterSpacing: -0.015em
+  headline-lg-mobile:
+    fontFamily: EB Garamond
+    fontSize: 2rem
+    fontWeight: '400'
+    lineHeight: 2.25rem
+    letterSpacing: -0.01em
+  headline-md:
+    fontFamily: Hanken Grotesk
+    fontSize: 1.75rem
+    fontWeight: '600'
+    lineHeight: 2.125rem
+    letterSpacing: -0.01em
+  headline-sm:
+    fontFamily: Hanken Grotesk
+    fontSize: 1.25rem
+    fontWeight: '600'
+    lineHeight: 1.625rem
+    letterSpacing: 0em
+  body-lg:
+    fontFamily: Hanken Grotesk
+    fontSize: 1.125rem
+    fontWeight: '400'
+    lineHeight: 1.75rem
+  body-md:
+    fontFamily: Hanken Grotesk
+    fontSize: 0.9375rem
+    fontWeight: '400'
+    lineHeight: 1.5rem
+  body-sm:
+    fontFamily: Hanken Grotesk
+    fontSize: 0.8125rem
+    fontWeight: '400'
+    lineHeight: 1.25rem
+  label-technical:
+    fontFamily: Space Mono
+    fontSize: 0.6875rem
+    fontWeight: '700'
+    lineHeight: 0.875rem
+    letterSpacing: 0.08em
+  label-code:
+    fontFamily: Space Mono
+    fontSize: 0.8125rem
+    fontWeight: '400'
+    lineHeight: 1.25rem
+    letterSpacing: 0.02em
+  label-tag:
+    fontFamily: Space Mono
+    fontSize: 0.625rem
+    fontWeight: '700'
+    lineHeight: 0.75rem
+    letterSpacing: 0.12em
+spacing:
+  gutter: 1.5rem
+  gutter-mobile: 0.75rem
+  margin: 3rem
+  margin-mobile: 1.25rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2.5rem
+  space-2xl: 4rem
+---
+
+## Brand & Style
+
+This design system establishes a high-precision, technical blueprint aesthetic engineered specifically for an avant-garde recording artist and visionary music video director. It synthesizes architectural schematic drafting, optical engineering notations, and brutalist editorial discipline. The visual mood evokes an active production laboratory or high-fidelity sound stage: clinical, exact, yet deeply visceral and artistic.
+
+### Design Movement & Core Principles
+- **Brutalist Schematic Drafting:** High-structure grid lines, corner reticles, technical datum markers, and drafting metadata tags (`SHEET 01`, `REV A`, `FPS 24`, `TIME 03:45`, `ISO 800`) establish structural rigor.
+- **Cinematic Production Rigor:** Surfaces emulate blueprint stock, high-grade cinematic call sheets, and archival production logs. 
+- **Disciplined Precision:** Elimination of decorative soft drop shadows in favor of razor-sharp hairline borders (0.5px–1px), structural coordinate labels, and calibrated information architecture.
+
+## Colors
+
+The palette is rooted in an archival, warm drafting paper base contrasted against carbon black inks and urgent production markers.
+
+- **Primary (`#111111`):** Heavy carbon ink used for razor-sharp typography, technical dividers, solid production pill badges, and primary interactive states.
+- **Secondary (`#FF4D22`):** Signal orange-red utilized for active track indices, camera recording indicators (`REC`), hot links, and visual focal nodes.
+- **Tertiary (`#D9B98C`):** Warm drafting vellum used for delicate blueprint grid matrices, hairline perimeter frames, and secondary architectural callouts.
+- **Neutral (`#FAF7F2`):** The foundational base canvas evoking uncoated fiber stock and physical studio boards.
+
+### Application Logic
+- **Backgrounds:** Primary viewports default to `canvas-cream` (`#FAF7F2`), transitioning to `surface-cream-alt` (`#F3EFE6`) for modular schematic cards. Dark terminal viewports or cinematic screening rooms shift to `surface-dark` (`#16181D`).
+- **Data & Text:** Content text remains locked to `technical-black` (`#111111`) for maximum contrast and typographic legibility. Sub-labels and machine metadata adopt `code-gray` (`#555555`).
+- **Grids & Dividers:** Subtle coordinate grids and schematic section borders leverage `border-subtle` and `border-grid`.
+
+## Typography
+
+The typographic hierarchy relies on a strict tripartite pairing:
+
+1. **Editorial Display (`EB Garamond`):** Delivers literary, high-art authority for film and track titles, album monographs, and high-impact manifesto headlines.
+2. **Structural Clarity (`Hanken Grotesk`):** Provides pristine, unadorned grotesque neutrality for narrative body copy, tracklists, bios, and navigational links.
+3. **Machine Telemetry (`Space Mono`):** Injects raw technical precision across timestamps, aspect ratios, focal lengths, production sheet numbers, and status indicators. Always uppercase for labels and tags.
+
+## Layout & Spacing
+
+Layouts follow a calibrated 12-column architectural grid with visible hairline guidelines and reference benchmarks.
+
+### Structural Framework
+- **Canvas Framing:** Top-level viewports are anchored inside a full-bleed outer container framed with a subtle border and corner alignment crosses (`+`).
+- **Grid Alignment:** Columns adhere to strict proportional divisions (12-column desktop, 6-column tablet, 2-column mobile). Major sections feature explicit datum markers (e.g., `DATUM 00 120.000 // POS X`) positioned along dividing horizontal rules.
+- **Rhythm:** Spacing follows an 8px base grid. Section transitions demand disciplined breathing room (`space-2xl`), while technical metadata chips sit tightly (`space-xs` to `space-sm`) against viewport headers.
+
+## Elevation & Depth
+
+This system avoids blurred drop shadows and ambient lighting models. Visual depth is strictly orthographic and structural:
+
+- **Surface Layering:** Depth is created through surface contrast (e.g., nesting `#F3EFE6` or `#16181D` panels over the base `#FAF7F2` canvas).
+- **Hairline Framing:** Crisp 1px solid borders in `rgba(17, 17, 17, 0.12)` or `rgba(217, 185, 140, 0.35)` delineate stacked panels.
+- **Precision Technical Markers:** Panels integrate corner bracket notches (`⌜`, `⌝`, `⌞`, `⌟`) or technical crosshairs to establish structural positioning without blur or artificial z-axis casting.
+- **Active Selection Depth:** Active or selected items receive high-contrast fills (solid `#111111` or `#FF4D22`) rather than elevated drop shadows.
+
+## Shapes
+
+The primary shape philosophy is strictly **Sharp (0px)** to preserve the blueprint and engineering terminal aesthetic. 
+
+- **Containers & Cards:** 0px radius with visible hairline borders.
+- **Badges & Terminal Chips:** Micro pill shapes (full radius) are reserved solely for high-contrast technical metadata pills (`SHEET 01`, `REV A`) to mirror clinical camera tape labels and instrument chassis toggles. All structural modules, media frames, and buttons maintain crisp right angles.
+
+## Components
+
+### Buttons
+- **Primary:** Solid `#111111` background, `#FAF7F2` uppercase `Space Mono` typography, 0px border radius, 12px 20px padding. Hover state shifts instantly to `#FF4D22` with zero transition lag.
+- **Secondary / Ghost:** Transparent background, 1px solid `#111111` hairline, technical black text. Hover state inverts to full `#111111` fill with `#FAF7F2` text.
+- **Terminal Action:** Monospace pill container with dot indicator (`● PLAY [03:45]`).
+
+### Technical Metadata Badges & Chips
+- Segmented pills composed of adjacent cells enclosed in a single 1px `#111111` shell.
+- Left cell: Inverted solid black block with white monospace sheet code (`SHEET 02`).
+- Right cell: Cream background with code status in carbon black (`REV B // 4K LOG`).
+
+### Media & Video Containers
+- 16:9 and 2.39:1 anamorphic ratio containers encased in hairline borders.
+- Top banner bar features live metadata telemetry: timecode counter (`00:02:14:18`), lens metadata (`35MM T1.5`), and camera status indicators (`● REC`).
+- Corner boundary ticks overlaying the media preview frame.
+
+### Cards & Modular Panels
+- Enclosed with 1px `border-subtle` or `border-grid`.
+- Headers contain a dedicated technical utility bar separated by a horizontal rule.
+- Modular panels support inverted "Dark Room" modes (`surface-dark` background with white text and signal orange highlights) for video playback and audio waveform displays.
+
+### Form Inputs & Selectors
+- Flat fields with bottom hairline rules or full crisp bounding boxes.
+- Floating monospace labels placed above the input line (`PARAM // VALUE`).
+- High-contrast square checkboxes (0px radius) with an uncompromising solid fill when checked.

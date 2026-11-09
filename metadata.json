@@ -1,0 +1,6 @@
+{
+  "name": "INDRA.WAV — Archivo Oficial y Portafolio Sonoro",
+  "description": "Archivo de producción cinematográfica, fonográfica y dirección audiovisual de INDRA.WAV. Estética técnica de plano arquitectónico y manifiesto de delirio rioplatense.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
